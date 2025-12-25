@@ -157,7 +157,14 @@ Demonstrates Excel as a strong analytical and decision-support tool.
 - Standardized cost assumptions  
 
 ---
+## 🤝 Let’s Connect
 
+If you're a recruiter, data enthusiast, or fellow developer, feel free to reach out.
+
+- 📧 **Email:** gouravjatavmanit@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/mr-gourav-jatav](https://www.linkedin.com/in/mr-gourav-jatav)
+
+---
 ## 🧾 Conclusion
 
 This project highlights my ability to apply **analytical thinking, business logic, and dashboard design** to solve a real-world inventory problem using Excel.  
